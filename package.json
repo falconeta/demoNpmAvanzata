@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/falconeta/demoNpmAvanzata/issues"
   },
-  "homepage": "https://github.com/falconeta/demoNpmAvanzata#readme"
+  "homepage": "https://github.com/falconeta/demoNpmAvanzata#readme",
+  "dependencies": {
+    "moment": "2.20.1"
+  }
 }
